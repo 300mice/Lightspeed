@@ -71,3 +71,9 @@ DerivedDataCache/*
 Content/Movies/InsideArena.avi
 Content/Movies/SpaceArenaOutSide.avi
 *.avi
+*.mb
+*.spp
+*.mtl
+*.zpr
+*.ztl
+*.zip
