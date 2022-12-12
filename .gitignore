@@ -77,3 +77,5 @@ Content/Movies/SpaceArenaOutSide.avi
 *.zpr
 *.ztl
 *.zip
+Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+Content/StarterContent/Architecture/Floor_400x400.uasset
